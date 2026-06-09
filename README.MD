@@ -1,3 +1,6 @@
+## Workflow Overview
+
+![Workflow Overview](images/workflow-overview.png)
 # WhatsApp AI Customer Support Agent
 
 An AI-powered customer support automation built with n8n, WhatsApp Business API, OpenAI GPT-4o, Airtable, HubSpot, and Telegram.
