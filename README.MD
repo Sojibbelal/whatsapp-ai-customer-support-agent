@@ -33,6 +33,21 @@ Before installing, create accounts for:
 * Telegram Bot
 
 ---
+## Quick Start
+
+1. Install Docker
+2. Install n8n
+3. Import the workflow JSON
+4. Configure:
+   - OpenAI
+   - WhatsApp Business API
+   - Airtable
+   - HubSpot
+   - Telegram
+5. Activate the workflow
+6. Send a WhatsApp message
+
+Estimated setup time: 30–45 minutes
 
 # Step 1: Install Docker
 
